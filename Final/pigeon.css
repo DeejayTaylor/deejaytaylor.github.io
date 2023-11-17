@@ -1,0 +1,43 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header{
+	background: #F0F0EF;
+	padding: 80px;
+}
+
+.pigeonholder{
+	max-width: 500px;
+	border:;
+	margin-left: 900px;
+}
+
+img{
+	max-width: 700px;
+}
+
+p{
+	margin-left: 100px;
+	margin-top:100px;
+	opacity: 60%;
+	font-family:'Nunito', sans-serif; 
+}
+
+
+
+/* typical breakpoints 1200, 992, 768, 576, 480 */
+
+@media only screen and (max-width: 900px){
+
+}
+
+@media only screen and (max-width: 600px){
+
+}
+
+@media only screen and (max-width: 500px){
+
+}
